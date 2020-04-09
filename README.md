@@ -1,6 +1,6 @@
 ![Institute of Coding](https://raw.githubusercontent.com/Institute-of-Coding-Northumbria/data-visualisation/master/assets/header.png?raw=true)
 
-# Data visualisation for Everyone
+# Data Visualisation for Everyone
 
 In this repository, you can find data visualisation notebooks and data required by these notebooks created by the Northumbria University Institute of Coding team. You can download clone this repository to your own computer and open it in your own Jupypter Notebook environment, or you can press the "**Open in Colab**" buttons below to use Google's interactive notebook runtime environment. 
 
