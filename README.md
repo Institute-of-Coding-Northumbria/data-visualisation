@@ -7,12 +7,12 @@ In this repository, you can find data visualisation notebooks and data required 
 ### Jupyter Notebook
 Jupyter Notebook allows you to open documents that contain instructional material and programming language code. To run Jupyter Notebook on your own computer you will need to [install it first](https://jupyter.org/install.html).
 
-## Introduction to visualiastion with Matplotlib and Seaborn
+## Introduction to visualisation with Matplotlib and Seaborn
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Institute-of-Coding-Northumbria/data-visualisation/blob/master/Data-Visualisation-For-Everyone-Introduction-to-Matplotlib-and-Seaborn.ipynb)
 
 
-## Data visualiastion with Plot.ly
+## Data visualisation with Plot.ly
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Institute-of-Coding-Northumbria/data-visualisation/blob/master/Data-Visualization-with-Plotly.ipynb)
 
