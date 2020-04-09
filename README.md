@@ -2,7 +2,10 @@
 
 # Data visualisation for Everyone
 
-In this repository, you can find data visualisation notebooks and data required by these notebooks created by the Northumbria University - Institute of Coding team. You can clone this repository to your own computer, or you can press the "**Open in Colab**" buttons below to use Google's interactive notebook runtime environment. 
+In this repository, you can find data visualisation notebooks and data required by these notebooks created by the Northumbria University Institute of Coding team. You can download clone this repository to your own computer and open it in your own Jupypter Notebook environment, or you can press the "**Open in Colab**" buttons below to use Google's interactive notebook runtime environment. 
+
+### Jupyter Notebook
+Jupyter Notebook allows you to open documents that contain instructional material and programming language code. To run Jupyter Notebook on your own computer you will need to [install it first](https://jupyter.org/install.html).
 
 ## Introduction to visualiastion with Matplotlib and Seaborn
 
